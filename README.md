@@ -2,7 +2,7 @@
 
 **Personalisierter Schachtaktik-Trainer als standalone HTML-Anwendung**
 
-Entwickelt vom [Bielefelder SK von 1883](https://www.bielefeldersk.de/) in Zusammenarbeit mit Claude AI.
+Entwickelt von Guido Gößling vom [Bielefelder SK von 1883](https://www.bielefeldersk.de/) in Zusammenarbeit mit Claude AI.
 
 **[Jetzt spielen](https://www.bielefeldersk.de/personalpuzzles)**
 
