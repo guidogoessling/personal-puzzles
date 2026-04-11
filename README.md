@@ -8,7 +8,7 @@
 
 Developed by Guido Gößling from [Bielefelder SK von 1883](https://www.bielefeldersk.de/) in collaboration with Claude AI.
 
-**[Play now](https://www.bielefeldersk.de/personalpuzzles)**
+**[Play now](https://guidogoessling.github.io/personal-puzzles/)**
 
 
 ## What is Personal Puzzles?
